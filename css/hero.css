@@ -22,7 +22,7 @@ header img{
 	height: 250px;
 	width: 250px;
 	border-radius: 50%;
-	border: 11px solid #fff;
+	border: 13px solid #fff;
 }
 
 main{
@@ -50,7 +50,7 @@ a{
 
 a:hover{
 	background-color: #778899;
-	color: #696969;
+	color: white;
 }
 
 footer{
